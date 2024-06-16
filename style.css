@@ -12,8 +12,6 @@
 }
 
 body {
-  background-image: url("./images/bg-pattern-top.svg"),
-    url("./images/bg-pattern-bottom.svg");
   background-color: var(--Dark-cyan);
   background-size: 30%;
 

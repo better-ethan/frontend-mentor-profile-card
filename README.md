@@ -7,4 +7,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Profile Card](https://github.com/better-ethan/frontend-mentor-profile-card)
-- Live Site URL: [Profile Card](https://your-live-site-url.com)
+- Live Site URL: [Profile Card](https://better-ethan.github.io/frontend-mentor-profile-card/)
